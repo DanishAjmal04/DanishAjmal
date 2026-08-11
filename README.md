@@ -10,7 +10,7 @@
 - 🌱 Skilled in API integration, clean code, and modern web workflows
 - 💡 Comfortable working across the stack — from responsive UIs to backend APIs and databases
 - 📫 Reach me at: danishajmal56da@gmail.com
-- 🔗 Connect on [LinkedIn](your-linkedin-link-here)
+- 🔗 Connect on [LinkedIn]([your-linkedin-link-here](https://www.linkedin.com/in/danish-ajmal-3a4874348/))
 
 ## 🚀 Featured Projects
 
