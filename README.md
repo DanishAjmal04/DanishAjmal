@@ -6,6 +6,7 @@
 
 - 🎓 BS Computer Science, FAST-NUCES Lahore (2022 – 2026)
 - 💻 Full-stack development with React, Node.js, Django
+- 🤖 Experienced in AI/ML — worked on ML-based cybersecurity compliance monitoring
 - 🔭 Experience as Intern Full Stack Developer at Arbisoft — built and improved scalable features across frontend and backend
 - 🌱 Skilled in API integration, clean code, and modern web workflows
 - 💡 Comfortable working across the stack — from responsive UIs to backend APIs and databases
